@@ -102,7 +102,7 @@ Now visit → http://localhost:3000
 	•	📡 Advanced IoT & AI integration for real-time fraud detection
 
 🤝 Team Amex – Hackout’25
-	•	👨‍💻 Khush Chaniyara – full-stack developer
+  •	👨‍💻 Khush Chaniyara – full-stack developer
   •	👨‍💻 priyank kothiya  – database manage and front-end developer
   •	👨‍💻 vishal chandravadiya – frontend developer and github master
   •	👨‍💻 parth vekariya – supporter and frontend developer
