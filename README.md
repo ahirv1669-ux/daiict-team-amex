@@ -94,4 +94,15 @@ npm run dev
 cd ..
 npm run dev
 
-Now visit → http://localhost:3000 🎉
+Now visit → http://localhost:3000
+
+🌍 Future Scope
+	•	🌐 Multi-country data collaboration for global hydrogen trade
+	•	🏛️ Policy-level adoption into government carbon frameworks
+	•	📡 Advanced IoT & AI integration for real-time fraud detection
+
+🤝 Team Amex – Hackout’25
+	•	👨‍💻 Khush Chaniyara – full-stack developer
+  •	👨‍💻 priyank kothiya  – database manage and front-end developer
+  •	👨‍💻 vishal chandravadiya – frontend developer and github master
+  •	👨‍💻 parth vekariya – supporter and frontend developer
